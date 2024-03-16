@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header ul {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    list-style: none;
+}
+
+.header ul * {
+    transition: all 0.3s ease-in-out;
+}
+.header ul *:hover {
+    color: green;
+}
