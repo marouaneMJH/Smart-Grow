@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Smart-Grow/static/css/main.9ef509c0.css",
-    "main.js": "/Smart-Grow/static/js/main.28c601b1.js",
+    "main.css": "/Smart-Grow/static/css/main.e6c13ad2.css",
+    "main.js": "/Smart-Grow/static/js/main.52d8e570.js",
     "static/js/453.dc503476.chunk.js": "/Smart-Grow/static/js/453.dc503476.chunk.js",
     "index.html": "/Smart-Grow/index.html",
-    "main.9ef509c0.css.map": "/Smart-Grow/static/css/main.9ef509c0.css.map",
-    "main.28c601b1.js.map": "/Smart-Grow/static/js/main.28c601b1.js.map",
+    "main.e6c13ad2.css.map": "/Smart-Grow/static/css/main.e6c13ad2.css.map",
+    "main.52d8e570.js.map": "/Smart-Grow/static/js/main.52d8e570.js.map",
     "453.dc503476.chunk.js.map": "/Smart-Grow/static/js/453.dc503476.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ef509c0.css",
-    "static/js/main.28c601b1.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.52d8e570.js"
   ]
 }
