@@ -40,5 +40,12 @@ export const PLANTS = [
         img: "https://source.unsplash.com/3tYZjGSBwbk",
         humidity: 74,
         temperature: 28,
+    }, 
+    {
+        id: 3,
+        name: "daisy",
+        img: "https://source.unsplash.com/3tYZjGSBwbk",
+        humidity: 74,
+        temperature: 28,
     },
 ];

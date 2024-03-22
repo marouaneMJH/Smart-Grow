@@ -29,7 +29,8 @@ function Plant(plant) {
 }
 
 function Plants() {
-    return <div className="Plants">{PLANTS.map(Plant)}</div>
+    return <div className="Plants">{PLANTS.map((plant, index) => <Plant key={index} {...plant} />)}</div>;
 }
+
 
 export default Plants;

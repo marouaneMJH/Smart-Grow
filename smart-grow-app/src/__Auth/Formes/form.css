@@ -1,0 +1,49 @@
+.Form-control {
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+.Form-control label {
+    margin-right: 20%;
+}
+.Form-control > a {
+    text-decoration: underline;
+    color: white;
+}
+.Form-control input[type="checkbox"] {
+    appearance: none;
+    width: 1rem;
+    height: 1rem;
+    border: 1px solid white;
+    border-radius: 0.5rem;
+    background: #2d3133;
+    cursor: pointer;
+}
+.Form-control input[type="checkbox"]:checked {
+    border: 1px solid white;
+    background: #5a7422;
+}
+
+input[type="email"],
+input[type="password"] {
+    background-color: red;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    width: 40%;
+    height: 70%;
+    z-index: 1000;
+    border: 1.4px solid gray;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
+        rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    color: white;
+}

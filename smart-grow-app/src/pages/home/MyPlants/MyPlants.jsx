@@ -4,19 +4,15 @@ import Button from '../../../components/Button/Button';
 import Header from '../../../components/Header/Header'
 
 
-function Mylants(){
+function MyPlants(){
     return(
         <div className='my-plants'>
             <Header />
-
             <Plants />
-            <Button />
-            {/* <Button 
-                content="add items"
-            /> */}
+            <Button>Add item</Button>
         </div>
     )
 }
 
 
-export default Mylants;
+export default MyPlants;
